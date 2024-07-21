@@ -23,3 +23,15 @@
 - Youtube - Beginners https://www.youtube.com/watch?v=3c-iBn73dDE
 - Youtube - Docker Compose https://www.youtube.com/watch?v=HG6yIjZapSA
 - Principais comandos https://dev.to/soutoigor/dockerfile-principais-comandos-e-instrucoes-2jpp
+
+## SQL
+- Udemy - Bootcamp Beginners (payed, but not expensive, very goos quality) https://www.udemy.com/course/the-complete-sql-bootcamp/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-yn4syphFt3wsdlQl_2Sl0g&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=HTtUFxqit0c&couponCode=LETSLEARNNOWPP
+- Youtube -  4 hours full course https://www.youtube.com/watch?v=HXV3zeQKqGY
+
+## API's
+- Youtube - Beginners https://www.youtube.com/watch?v=GZvSYJDk-us&t=6965s
+- Youtube - RESTtful https://www.youtube.com/watch?v=Q-BpqyOT3a8
+- Article https://horadecodar.com.br/o-que-e-uma-api-restful-entenda-tudo-sobre-rest-e-http//
+
+## HTTP
+- Youtube: https://www.youtube.com/watch?v=iYM2zFP3Zn0
