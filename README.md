@@ -48,6 +48,9 @@
 - Youtube Command lines https://www.youtube.com/watch?v=2PGnYjbYuUo
 - Udemy Linux for beginners https://www.udemy.com/course/linux-for-beginners-2021/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-hFZAmF_V4qoQMac49XY_Wg&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads&couponCode=LETSLEARNNOWPP
 
+## Data Warehouse
+- Udemy https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-5Cssseb5O_hSY2lvbFd3bQ&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads
+
 ## Big Data Fundamentals
 - Youtube - Beginners https://www.youtube.com/watch?v=16Z2WRtoO8Y
 - Fundamentals https://www.alura.com.br/artigos/big-data
