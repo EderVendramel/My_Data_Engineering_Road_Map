@@ -1,5 +1,5 @@
 # My_Data_Engineering_Road_Map
-## Personal roadmap to guide my studies.
+## My personal roadmap to guide my studies.
 ## Fundamentals
 - YouTube How Data Engineering Works 
 - https://www.youtube.com/watch?v=qWru-b6m030 
@@ -35,3 +35,25 @@
 
 ## HTTP
 - Youtube: https://www.youtube.com/watch?v=iYM2zFP3Zn0
+
+## EDA - Event-Driven Architecture
+- Youtube: https://www.youtube.com/watch?v=qaSS4Pci8vM
+- Youtube O que é?: https://www.youtube.com/watch?v=o2HJCGcYwoU
+
+## Kafka
+- Youtube - Playlist https://www.youtube.com/watch?v=fNhaQUWZMpM&list=PLzWDDw1w8cTRsUM3cLMxImrQRv8jrOTP0&index=1
+- Youtube IBM Technology: https://www.youtube.com/watch?v=aj9CDZm0Glc
+
+## Linux
+- Youtube Command lines https://www.youtube.com/watch?v=2PGnYjbYuUo
+- Udemy Linux for beginners https://www.udemy.com/course/linux-for-beginners-2021/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-hFZAmF_V4qoQMac49XY_Wg&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads&couponCode=LETSLEARNNOWPP
+
+## Big Data Fundamentals
+- Youtube - Beginners https://www.youtube.com/watch?v=16Z2WRtoO8Y
+- Fundamentals https://www.alura.com.br/artigos/big-data
+
+## To be continued...
+- Programming Language - Python
+- Cloud(s)
+- Code versioning
+
