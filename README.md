@@ -17,3 +17,9 @@
 - Batch x Streaming https://gowthamy.medium.com/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103
 - Bash example: https://www.startdataengineering.com/post/update-mysql-in-batch/
 - Streaming example: https://www.startdataengineering.com/post/data-engineering-project-for-beginners-stream-edition/
+
+## Docker
+- Começando com Docker https://www.alura.com.br/artigos/comecando-com-docker
+- Youtube - Beginners https://www.youtube.com/watch?v=3c-iBn73dDE
+- Youtube - Docker Compose https://www.youtube.com/watch?v=HG6yIjZapSA
+- Principais comandos https://dev.to/soutoigor/dockerfile-principais-comandos-e-instrucoes-2jpp
